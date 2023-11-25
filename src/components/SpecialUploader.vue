@@ -11,7 +11,7 @@
     <div class="your-file">
       <img :src="imgSRC" alt="" srcset="" />
     </div>
-    img source:{{ imgSRC }}
+<!--    img source:{{ imgSRC }}-->
   </div>
 </template>
 

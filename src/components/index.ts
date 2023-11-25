@@ -1,1 +1,1 @@
-export { default as SpecialUploader } from "./special-uploader.vue";
+export { default as SpecialUploader } from './SpecialUploader.vue';
